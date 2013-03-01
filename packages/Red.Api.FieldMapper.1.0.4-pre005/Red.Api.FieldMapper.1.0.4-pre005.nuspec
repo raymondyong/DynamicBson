@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>Red.Api.FieldMapper</id>
+    <version>1.0.4-pre005</version>
+    <authors>Clifford Hammerschmidt</authors>
+    <owners>Move</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
+    <projectUrl>https://github.com/MoveInc/red-dev-api</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Field mapping</description>
+    <tags>fieldmapper red api</tags>
+    <dependencies>
+      <dependency id="CH.Bson" version="1.5" />
+      <dependency id="mongocsharpdriver" version="1.6.1" />
+      <dependency id="Red.Ex.DotNet" version="2.7" />
+    </dependencies>
+  </metadata>
+</package>

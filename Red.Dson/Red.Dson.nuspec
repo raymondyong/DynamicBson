@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Red.Dson</id>
+    <version>1.0.0</version>
+    <title>Dynamic Bson</title>
+    <authors>Move</authors>
+    <owners>Move</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
+    <projectUrl>https://github.com/MoveInc/red-dev-api</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Dynamic Bson</description>
+    <copyright>Copyright 2013</copyright>
+    <tags>dynamic bson</tags>
+    <dependencies>
+      <dependency id="CH.Bson" version="1.6" />
+      <dependency id="mongocsharpdriver" version="1.7.1" />
+      <dependency id="CH.Ioc.Infrastructure.Wiring" version="1.0.1" />
+    </dependencies>
+  </metadata>
+</package>

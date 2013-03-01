@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>com.bodurov.DynamicProxy</id>
+    <version>1.0.0</version>
+    <authors>vbodurov</authors>
+    <owners>vbodurov</owners>
+    <licenseUrl>http://www.gnu.org/licenses/agpl.txt</licenseUrl>
+    <projectUrl>https://github.com/vbodurov/dynamic-proxy-creator</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Creates proxy given an interface and a class able to implement it.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+  </metadata>
+</package>

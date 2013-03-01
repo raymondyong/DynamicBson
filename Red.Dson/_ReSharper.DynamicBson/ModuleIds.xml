@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="957F8F5B-38A2-4F9D-9239-C2BA15ABD97C" ModuleId="DynamicBson" />
+  <Module PersistentId="09095240-D2B8-4EB5-BA5B-AC58FFC99F07" ModuleId="Test" />
+</Modules>
